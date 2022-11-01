@@ -1,0 +1,920 @@
+[
+        {
+            "ranking": "1",
+            "name": "Carlsen, Magnus",
+            "fide profile": "https://ratings.fide.com/profile/1503014",
+            "country": "NOR",
+            "country image": "https://ratings.fide.com/svg/NOR.svg",
+            "elo": "2859",
+            "birthyear": "1990"
+        },
+        {
+            "ranking": "2",
+            "name": "Ding, Liren",
+            "fide profile": "https://ratings.fide.com/profile/8603677",
+            "country": "CHN",
+            "country image": "https://ratings.fide.com/svg/CHN.svg",
+            "elo": "2811",
+            "birthyear": "1992"
+        },
+        {
+            "ranking": "3",
+            "name": "Nepomniachtchi, Ian",
+            "fide profile": "https://ratings.fide.com/profile/4168119",
+            "country": "RUS",
+            "country image": "https://ratings.fide.com/svg/RUS.svg",
+            "elo": "2793",
+            "birthyear": "1990"
+        },
+        {
+            "ranking": "4",
+            "name": "Firouzja, Alireza",
+            "fide profile": "https://ratings.fide.com/profile/12573981",
+            "country": "FRA",
+            "country image": "https://ratings.fide.com/svg/FRA.svg",
+            "elo": "2785",
+            "birthyear": "2003"
+        },
+        {
+            "ranking": "5",
+            "name": "Nakamura, Hikaru",
+            "fide profile": "https://ratings.fide.com/profile/2016192",
+            "country": "USA",
+            "country image": "https://ratings.fide.com/svg/USA.svg",
+            "elo": "2768",
+            "birthyear": "1987"
+        },
+        {
+            "ranking": "6",
+            "name": "Caruana, Fabiano",
+            "fide profile": "https://ratings.fide.com/profile/2020009",
+            "country": "USA",
+            "country image": "https://ratings.fide.com/svg/USA.svg",
+            "elo": "2766",
+            "birthyear": "1992"
+        },
+        {
+            "ranking": "7",
+            "name": "Giri, Anish",
+            "fide profile": "https://ratings.fide.com/profile/24116068",
+            "country": "NED",
+            "country image": "https://ratings.fide.com/svg/NED.svg",
+            "elo": "2764",
+            "birthyear": "1994"
+        },
+        {
+            "ranking": "8",
+            "name": "So, Wesley",
+            "fide profile": "https://ratings.fide.com/profile/5202213",
+            "country": "USA",
+            "country image": "https://ratings.fide.com/svg/USA.svg",
+            "elo": "2760",
+            "birthyear": "1993"
+        },
+        {
+            "ranking": "9",
+            "name": "Anand, Viswanathan",
+            "fide profile": "https://ratings.fide.com/profile/5000017",
+            "country": "IND",
+            "country image": "https://ratings.fide.com/svg/IND.svg",
+            "elo": "2754",
+            "birthyear": "1969"
+        },
+        {
+            "ranking": "10",
+            "name": "Karjakin, Sergey",
+            "fide profile": "https://ratings.fide.com/profile/14109603",
+            "country": "RUS",
+            "country image": "https://ratings.fide.com/svg/RUS.svg",
+            "elo": "2747",
+            "birthyear": "1990"
+        },
+        {
+            "ranking": "11",
+            "name": "Radjabov, Teimour",
+            "fide profile": "https://ratings.fide.com/profile/13400924",
+            "country": "AZE",
+            "country image": "https://ratings.fide.com/svg/AZE.svg",
+            "elo": "2747",
+            "birthyear": "1987"
+        },
+        {
+            "ranking": "12",
+            "name": "Grischuk, Alexander",
+            "fide profile": "https://ratings.fide.com/profile/4126025",
+            "country": "RUS",
+            "country image": "https://ratings.fide.com/svg/RUS.svg",
+            "elo": "2745",
+            "birthyear": "1983"
+        },
+        {
+            "ranking": "13",
+            "name": "Dominguez Perez, Leinier",
+            "fide profile": "https://ratings.fide.com/profile/3503240",
+            "country": "USA",
+            "country image": "https://ratings.fide.com/svg/USA.svg",
+            "elo": "2743",
+            "birthyear": "1983"
+        },
+        {
+            "ranking": "14",
+            "name": "Mamedyarov, Shakhriyar",
+            "fide profile": "https://ratings.fide.com/profile/13401319",
+            "country": "AZE",
+            "country image": "https://ratings.fide.com/svg/AZE.svg",
+            "elo": "2741",
+            "birthyear": "1985"
+        },
+        {
+            "ranking": "15",
+            "name": "Rapport, Richard",
+            "fide profile": "https://ratings.fide.com/profile/738590",
+            "country": "ROU",
+            "country image": "https://ratings.fide.com/svg/ROU.svg",
+            "elo": "2740",
+            "birthyear": "1996"
+        },
+        {
+            "ranking": "16",
+            "name": "Vachier-Lagrave, Maxime",
+            "fide profile": "https://ratings.fide.com/profile/623539",
+            "country": "FRA",
+            "country image": "https://ratings.fide.com/svg/FRA.svg",
+            "elo": "2736",
+            "birthyear": "1990"
+        },
+        {
+            "ranking": "17",
+            "name": "Aronian, Levon",
+            "fide profile": "https://ratings.fide.com/profile/13300474",
+            "country": "USA",
+            "country image": "https://ratings.fide.com/svg/USA.svg",
+            "elo": "2735",
+            "birthyear": "1982"
+        },
+        {
+            "ranking": "18",
+            "name": "Duda, Jan-Krzysztof",
+            "fide profile": "https://ratings.fide.com/profile/1170546",
+            "country": "POL",
+            "country image": "https://ratings.fide.com/svg/POL.svg",
+            "elo": "2731",
+            "birthyear": "1998"
+        },
+        {
+            "ranking": "19",
+            "name": "Andreikin, Dmitry",
+            "fide profile": "https://ratings.fide.com/profile/4158814",
+            "country": "FID",
+            "country image": "https://ratings.fide.com/svg/FID.svg",
+            "elo": "2729",
+            "birthyear": "1990"
+        },
+        {
+            "ranking": "20",
+            "name": "Le, Quang Liem",
+            "fide profile": "https://ratings.fide.com/profile/12401137",
+            "country": "VIE",
+            "country image": "https://ratings.fide.com/svg/VIE.svg",
+            "elo": "2728",
+            "birthyear": "1991"
+        },
+        {
+            "ranking": "21",
+            "name": "Topalov, Veselin",
+            "fide profile": "https://ratings.fide.com/profile/2900084",
+            "country": "BUL",
+            "country image": "https://ratings.fide.com/svg/BUL.svg",
+            "elo": "2728",
+            "birthyear": "1975"
+        },
+        {
+            "ranking": "22",
+            "name": "Vitiugov, Nikita",
+            "fide profile": "https://ratings.fide.com/profile/4152956",
+            "country": "FID",
+            "country image": "https://ratings.fide.com/svg/FID.svg",
+            "elo": "2726",
+            "birthyear": "1987"
+        },
+        {
+            "ranking": "23",
+            "name": "Gukesh D",
+            "fide profile": "https://ratings.fide.com/profile/46616543",
+            "country": "IND",
+            "country image": "https://ratings.fide.com/svg/IND.svg",
+            "elo": "2725",
+            "birthyear": "2006"
+        },
+        {
+            "ranking": "24",
+            "name": "Vidit, Santosh Gujrathi",
+            "fide profile": "https://ratings.fide.com/profile/5029465",
+            "country": "IND",
+            "country image": "https://ratings.fide.com/svg/IND.svg",
+            "elo": "2724",
+            "birthyear": "1994"
+        },
+        {
+            "ranking": "25",
+            "name": "Wang, Hao",
+            "fide profile": "https://ratings.fide.com/profile/8602883",
+            "country": "CHN",
+            "country image": "https://ratings.fide.com/svg/CHN.svg",
+            "elo": "2722",
+            "birthyear": "1989"
+        },
+        {
+            "ranking": "26",
+            "name": "Wei, Yi",
+            "fide profile": "https://ratings.fide.com/profile/8603405",
+            "country": "CHN",
+            "country image": "https://ratings.fide.com/svg/CHN.svg",
+            "elo": "2722",
+            "birthyear": "1999"
+        },
+        {
+            "ranking": "27",
+            "name": "Maghsoodloo, Parham",
+            "fide profile": "https://ratings.fide.com/profile/12539929",
+            "country": "IRI",
+            "country image": "https://ratings.fide.com/svg/IRI.svg",
+            "elo": "2720",
+            "birthyear": "2000"
+        },
+        {
+            "ranking": "28",
+            "name": "Erigaisi Arjun",
+            "fide profile": "https://ratings.fide.com/profile/35009192",
+            "country": "IND",
+            "country image": "https://ratings.fide.com/svg/IND.svg",
+            "elo": "2718",
+            "birthyear": "2003"
+        },
+        {
+            "ranking": "29",
+            "name": "Yu, Yangyi",
+            "fide profile": "https://ratings.fide.com/profile/8603820",
+            "country": "CHN",
+            "country image": "https://ratings.fide.com/svg/CHN.svg",
+            "elo": "2716",
+            "birthyear": "1994"
+        },
+        {
+            "ranking": "30",
+            "name": "Vallejo Pons, Francisco",
+            "fide profile": "https://ratings.fide.com/profile/2205530",
+            "country": "ESP",
+            "country image": "https://ratings.fide.com/svg/ESP.svg",
+            "elo": "2716",
+            "birthyear": "1982"
+        },
+        {
+            "ranking": "31",
+            "name": "Harikrishna, Pentala",
+            "fide profile": "https://ratings.fide.com/profile/5007003",
+            "country": "IND",
+            "country image": "https://ratings.fide.com/svg/IND.svg",
+            "elo": "2715",
+            "birthyear": "1986"
+        },
+        {
+            "ranking": "32",
+            "name": "Abdusattorov, Nodirbek",
+            "fide profile": "https://ratings.fide.com/profile/14204118",
+            "country": "UZB",
+            "country image": "https://ratings.fide.com/svg/UZB.svg",
+            "elo": "2713",
+            "birthyear": "2004"
+        },
+        {
+            "ranking": "33",
+            "name": "Sjugirov, Sanan",
+            "fide profile": "https://ratings.fide.com/profile/4189302",
+            "country": "RUS",
+            "country image": "https://ratings.fide.com/svg/RUS.svg",
+            "elo": "2712",
+            "birthyear": "1993"
+        },
+        {
+            "ranking": "34",
+            "name": "Shankland, Sam",
+            "fide profile": "https://ratings.fide.com/profile/2004887",
+            "country": "USA",
+            "country image": "https://ratings.fide.com/svg/USA.svg",
+            "elo": "2710",
+            "birthyear": "1991"
+        },
+        {
+            "ranking": "35",
+            "name": "Dubov, Daniil",
+            "fide profile": "https://ratings.fide.com/profile/24126055",
+            "country": "RUS",
+            "country image": "https://ratings.fide.com/svg/RUS.svg",
+            "elo": "2708",
+            "birthyear": "1996"
+        },
+        {
+            "ranking": "36",
+            "name": "Eljanov, Pavel",
+            "fide profile": "https://ratings.fide.com/profile/14102951",
+            "country": "UKR",
+            "country image": "https://ratings.fide.com/svg/UKR.svg",
+            "elo": "2706",
+            "birthyear": "1983"
+        },
+        {
+            "ranking": "37",
+            "name": "Robson, Ray",
+            "fide profile": "https://ratings.fide.com/profile/2023970",
+            "country": "USA",
+            "country image": "https://ratings.fide.com/svg/USA.svg",
+            "elo": "2702",
+            "birthyear": "1994"
+        },
+        {
+            "ranking": "38",
+            "name": "Artemiev, Vladislav",
+            "fide profile": "https://ratings.fide.com/profile/24101605",
+            "country": "RUS",
+            "country image": "https://ratings.fide.com/svg/RUS.svg",
+            "elo": "2701",
+            "birthyear": "1998"
+        },
+        {
+            "ranking": "39",
+            "name": "Deac, Bogdan-Daniel",
+            "fide profile": "https://ratings.fide.com/profile/1226380",
+            "country": "ROU",
+            "country image": "https://ratings.fide.com/svg/ROU.svg",
+            "elo": "2700",
+            "birthyear": "2001"
+        },
+        {
+            "ranking": "40",
+            "name": "Niemann, Hans Moke",
+            "fide profile": "https://ratings.fide.com/profile/2093596",
+            "country": "USA",
+            "country image": "https://ratings.fide.com/svg/USA.svg",
+            "elo": "2699",
+            "birthyear": "2003"
+        },
+        {
+            "ranking": "41",
+            "name": "Sargissian, Gabriel",
+            "fide profile": "https://ratings.fide.com/profile/13300881",
+            "country": "ARM",
+            "country image": "https://ratings.fide.com/svg/ARM.svg",
+            "elo": "2699",
+            "birthyear": "1983"
+        },
+        {
+            "ranking": "42",
+            "name": "Keymer, Vincent",
+            "fide profile": "https://ratings.fide.com/profile/12940690",
+            "country": "GER",
+            "country image": "https://ratings.fide.com/svg/GER.svg",
+            "elo": "2698",
+            "birthyear": "2004"
+        },
+        {
+            "ranking": "43",
+            "name": "Bu, Xiangzhi",
+            "fide profile": "https://ratings.fide.com/profile/8601445",
+            "country": "CHN",
+            "country image": "https://ratings.fide.com/svg/CHN.svg",
+            "elo": "2698",
+            "birthyear": "1985"
+        },
+        {
+            "ranking": "44",
+            "name": "Cheparinov, Ivan",
+            "fide profile": "https://ratings.fide.com/profile/2905540",
+            "country": "BUL",
+            "country image": "https://ratings.fide.com/svg/BUL.svg",
+            "elo": "2694",
+            "birthyear": "1986"
+        },
+        {
+            "ranking": "45",
+            "name": "Tomashevsky, Evgeny",
+            "fide profile": "https://ratings.fide.com/profile/4147235",
+            "country": "RUS",
+            "country image": "https://ratings.fide.com/svg/RUS.svg",
+            "elo": "2694",
+            "birthyear": "1987"
+        },
+        {
+            "ranking": "46",
+            "name": "Xiong, Jeffery",
+            "fide profile": "https://ratings.fide.com/profile/2047640",
+            "country": "USA",
+            "country image": "https://ratings.fide.com/svg/USA.svg",
+            "elo": "2692",
+            "birthyear": "2000"
+        },
+        {
+            "ranking": "47",
+            "name": "Van Foreest, Jorden",
+            "fide profile": "https://ratings.fide.com/profile/1039784",
+            "country": "NED",
+            "country image": "https://ratings.fide.com/svg/NED.svg",
+            "elo": "2690",
+            "birthyear": "1999"
+        },
+        {
+            "ranking": "48",
+            "name": "Fedoseev, Vladimir",
+            "fide profile": "https://ratings.fide.com/profile/24130737",
+            "country": "FID",
+            "country image": "https://ratings.fide.com/svg/FID.svg",
+            "elo": "2688",
+            "birthyear": "1995"
+        },
+        {
+            "ranking": "49",
+            "name": "Sevian, Samuel",
+            "fide profile": "https://ratings.fide.com/profile/2040506",
+            "country": "USA",
+            "country image": "https://ratings.fide.com/svg/USA.svg",
+            "elo": "2687",
+            "birthyear": "2000"
+        },
+        {
+            "ranking": "50",
+            "name": "Alekseenko, Kirill",
+            "fide profile": "https://ratings.fide.com/profile/4135539",
+            "country": "FID",
+            "country image": "https://ratings.fide.com/svg/FID.svg",
+            "elo": "2687",
+            "birthyear": "1997"
+        },
+        {
+            "ranking": "51",
+            "name": "Nyzhnyk, Illya",
+            "fide profile": "https://ratings.fide.com/profile/14118084",
+            "country": "UKR",
+            "country image": "https://ratings.fide.com/svg/UKR.svg",
+            "elo": "2687",
+            "birthyear": "1996"
+        },
+        {
+            "ranking": "52",
+            "name": "Wojtaszek, Radoslaw",
+            "fide profile": "https://ratings.fide.com/profile/1118358",
+            "country": "POL",
+            "country image": "https://ratings.fide.com/svg/POL.svg",
+            "elo": "2686",
+            "birthyear": "1987"
+        },
+        {
+            "ranking": "53",
+            "name": "Adams, Michael",
+            "fide profile": "https://ratings.fide.com/profile/400041",
+            "country": "ENG",
+            "country image": "https://ratings.fide.com/svg/ENG.svg",
+            "elo": "2686",
+            "birthyear": "1971"
+        },
+        {
+            "ranking": "54",
+            "name": "Amin, Bassem",
+            "fide profile": "https://ratings.fide.com/profile/10601457",
+            "country": "EGY",
+            "country image": "https://ratings.fide.com/svg/EGY.svg",
+            "elo": "2685",
+            "birthyear": "1988"
+        },
+        {
+            "ranking": "55",
+            "name": "Predke, Alexandr",
+            "fide profile": "https://ratings.fide.com/profile/24107581",
+            "country": "FID",
+            "country image": "https://ratings.fide.com/svg/FID.svg",
+            "elo": "2684",
+            "birthyear": "1994"
+        },
+        {
+            "ranking": "56",
+            "name": "Oparin, Grigoriy",
+            "fide profile": "https://ratings.fide.com/profile/24125890",
+            "country": "USA",
+            "country image": "https://ratings.fide.com/svg/USA.svg",
+            "elo": "2683",
+            "birthyear": "1997"
+        },
+        {
+            "ranking": "57",
+            "name": "Svidler, Peter",
+            "fide profile": "https://ratings.fide.com/profile/4102142",
+            "country": "FID",
+            "country image": "https://ratings.fide.com/svg/FID.svg",
+            "elo": "2683",
+            "birthyear": "1976"
+        },
+        {
+            "ranking": "58",
+            "name": "Martirosyan, Haik M.",
+            "fide profile": "https://ratings.fide.com/profile/13306553",
+            "country": "ARM",
+            "country image": "https://ratings.fide.com/svg/ARM.svg",
+            "elo": "2682",
+            "birthyear": "2000"
+        },
+        {
+            "ranking": "59",
+            "name": "Jakovenko, Dmitry",
+            "fide profile": "https://ratings.fide.com/profile/4122356",
+            "country": "RUS",
+            "country image": "https://ratings.fide.com/svg/RUS.svg",
+            "elo": "2682",
+            "birthyear": "1983"
+        },
+        {
+            "ranking": "60",
+            "name": "Esipenko, Andrey",
+            "fide profile": "https://ratings.fide.com/profile/24175439",
+            "country": "FID",
+            "country image": "https://ratings.fide.com/svg/FID.svg",
+            "elo": "2680",
+            "birthyear": "2002"
+        },
+        {
+            "ranking": "61",
+            "name": "Navara, David",
+            "fide profile": "https://ratings.fide.com/profile/309095",
+            "country": "CZE",
+            "country image": "https://ratings.fide.com/svg/CZE.svg",
+            "elo": "2680",
+            "birthyear": "1985"
+        },
+        {
+            "ranking": "62",
+            "name": "Praggnanandhaa R",
+            "fide profile": "https://ratings.fide.com/profile/25059530",
+            "country": "IND",
+            "country image": "https://ratings.fide.com/svg/IND.svg",
+            "elo": "2678",
+            "birthyear": "2005"
+        },
+        {
+            "ranking": "63",
+            "name": "Almasi, Zoltan",
+            "fide profile": "https://ratings.fide.com/profile/702293",
+            "country": "HUN",
+            "country image": "https://ratings.fide.com/svg/HUN.svg",
+            "elo": "2677",
+            "birthyear": "1976"
+        },
+        {
+            "ranking": "64",
+            "name": "Salem, A.R. Saleh",
+            "fide profile": "https://ratings.fide.com/profile/9301348",
+            "country": "UAE",
+            "country image": "https://ratings.fide.com/svg/UAE.svg",
+            "elo": "2677",
+            "birthyear": "1993"
+        },
+        {
+            "ranking": "65",
+            "name": "Moussard, Jules",
+            "fide profile": "https://ratings.fide.com/profile/642908",
+            "country": "FRA",
+            "country image": "https://ratings.fide.com/svg/FRA.svg",
+            "elo": "2676",
+            "birthyear": "1995"
+        },
+        {
+            "ranking": "66",
+            "name": "Kasimdzhanov, Rustam",
+            "fide profile": "https://ratings.fide.com/profile/14200244",
+            "country": "UZB",
+            "country image": "https://ratings.fide.com/svg/UZB.svg",
+            "elo": "2676",
+            "birthyear": "1979"
+        },
+        {
+            "ranking": "67",
+            "name": "Saric, Ivan",
+            "fide profile": "https://ratings.fide.com/profile/14508150",
+            "country": "CRO",
+            "country image": "https://ratings.fide.com/svg/CRO.svg",
+            "elo": "2674",
+            "birthyear": "1990"
+        },
+        {
+            "ranking": "68",
+            "name": "Kovalenko, Igor",
+            "fide profile": "https://ratings.fide.com/profile/14117908",
+            "country": "UKR",
+            "country image": "https://ratings.fide.com/svg/UKR.svg",
+            "elo": "2674",
+            "birthyear": "1988"
+        },
+        {
+            "ranking": "69",
+            "name": "Narayanan.S.L",
+            "fide profile": "https://ratings.fide.com/profile/5058422",
+            "country": "IND",
+            "country image": "https://ratings.fide.com/svg/IND.svg",
+            "elo": "2673",
+            "birthyear": "1998"
+        },
+        {
+            "ranking": "70",
+            "name": "Ivanchuk, Vasyl",
+            "fide profile": "https://ratings.fide.com/profile/14100010",
+            "country": "UKR",
+            "country image": "https://ratings.fide.com/svg/UKR.svg",
+            "elo": "2673",
+            "birthyear": "1969"
+        },
+        {
+            "ranking": "71",
+            "name": "Li, Chao b",
+            "fide profile": "https://ratings.fide.com/profile/8604436",
+            "country": "CHN",
+            "country image": "https://ratings.fide.com/svg/CHN.svg",
+            "elo": "2672",
+            "birthyear": "1989"
+        },
+        {
+            "ranking": "72",
+            "name": "Nihal Sarin",
+            "fide profile": "https://ratings.fide.com/profile/25092340",
+            "country": "IND",
+            "country image": "https://ratings.fide.com/svg/IND.svg",
+            "elo": "2670",
+            "birthyear": "2004"
+        },
+        {
+            "ranking": "73",
+            "name": "Sarana, Alexey",
+            "fide profile": "https://ratings.fide.com/profile/24133795",
+            "country": "FID",
+            "country image": "https://ratings.fide.com/svg/FID.svg",
+            "elo": "2668",
+            "birthyear": "2000"
+        },
+        {
+            "ranking": "74",
+            "name": "Anton Guijarro, David",
+            "fide profile": "https://ratings.fide.com/profile/2285525",
+            "country": "ESP",
+            "country image": "https://ratings.fide.com/svg/ESP.svg",
+            "elo": "2668",
+            "birthyear": "1995"
+        },
+        {
+            "ranking": "75",
+            "name": "Yakubboev, Nodirbek",
+            "fide profile": "https://ratings.fide.com/profile/14203987",
+            "country": "UZB",
+            "country image": "https://ratings.fide.com/svg/UZB.svg",
+            "elo": "2667",
+            "birthyear": "2002"
+        },
+        {
+            "ranking": "76",
+            "name": "Gelfand, Boris",
+            "fide profile": "https://ratings.fide.com/profile/2805677",
+            "country": "ISR",
+            "country image": "https://ratings.fide.com/svg/ISR.svg",
+            "elo": "2667",
+            "birthyear": "1968"
+        },
+        {
+            "ranking": "77",
+            "name": "Howell, David W L",
+            "fide profile": "https://ratings.fide.com/profile/410608",
+            "country": "ENG",
+            "country image": "https://ratings.fide.com/svg/ENG.svg",
+            "elo": "2667",
+            "birthyear": "1990"
+        },
+        {
+            "ranking": "78",
+            "name": "Naiditsch, Arkadij",
+            "fide profile": "https://ratings.fide.com/profile/4650891",
+            "country": "AZE",
+            "country image": "https://ratings.fide.com/svg/AZE.svg",
+            "elo": "2667",
+            "birthyear": "1985"
+        },
+        {
+            "ranking": "79",
+            "name": "Ni, Hua",
+            "fide profile": "https://ratings.fide.com/profile/8601160",
+            "country": "CHN",
+            "country image": "https://ratings.fide.com/svg/CHN.svg",
+            "elo": "2667",
+            "birthyear": "1983"
+        },
+        {
+            "ranking": "80",
+            "name": "Shirov, Alexei",
+            "fide profile": "https://ratings.fide.com/profile/2209390",
+            "country": "ESP",
+            "country image": "https://ratings.fide.com/svg/ESP.svg",
+            "elo": "2666",
+            "birthyear": "1972"
+        },
+        {
+            "ranking": "81",
+            "name": "Kamsky, Gata",
+            "fide profile": "https://ratings.fide.com/profile/2000024",
+            "country": "USA",
+            "country image": "https://ratings.fide.com/svg/USA.svg",
+            "elo": "2666",
+            "birthyear": "1974"
+        },
+        {
+            "ranking": "82",
+            "name": "Santos Latasa, Jaime",
+            "fide profile": "https://ratings.fide.com/profile/2293307",
+            "country": "ESP",
+            "country image": "https://ratings.fide.com/svg/ESP.svg",
+            "elo": "2665",
+            "birthyear": "1996"
+        },
+        {
+            "ranking": "83",
+            "name": "Volokitin, Andrei",
+            "fide profile": "https://ratings.fide.com/profile/14107090",
+            "country": "UKR",
+            "country image": "https://ratings.fide.com/svg/UKR.svg",
+            "elo": "2663",
+            "birthyear": "1986"
+        },
+        {
+            "ranking": "84",
+            "name": "Najer, Evgeniy",
+            "fide profile": "https://ratings.fide.com/profile/4118987",
+            "country": "RUS",
+            "country image": "https://ratings.fide.com/svg/RUS.svg",
+            "elo": "2662",
+            "birthyear": "1977"
+        },
+        {
+            "ranking": "85",
+            "name": "Matlakov, Maxim",
+            "fide profile": "https://ratings.fide.com/profile/4168003",
+            "country": "RUS",
+            "country image": "https://ratings.fide.com/svg/RUS.svg",
+            "elo": "2662",
+            "birthyear": "1991"
+        },
+        {
+            "ranking": "86",
+            "name": "Guseinov, Gadir",
+            "fide profile": "https://ratings.fide.com/profile/13401378",
+            "country": "AZE",
+            "country image": "https://ratings.fide.com/svg/AZE.svg",
+            "elo": "2661",
+            "birthyear": "1986"
+        },
+        {
+            "ranking": "87",
+            "name": "Inarkiev, Ernesto",
+            "fide profile": "https://ratings.fide.com/profile/4162722",
+            "country": "FID",
+            "country image": "https://ratings.fide.com/svg/FID.svg",
+            "elo": "2661",
+            "birthyear": "1985"
+        },
+        {
+            "ranking": "88",
+            "name": "Tari, Aryan",
+            "fide profile": "https://ratings.fide.com/profile/1510045",
+            "country": "NOR",
+            "country image": "https://ratings.fide.com/svg/NOR.svg",
+            "elo": "2660",
+            "birthyear": "1999"
+        },
+        {
+            "ranking": "89",
+            "name": "Korobov, Anton",
+            "fide profile": "https://ratings.fide.com/profile/14105730",
+            "country": "UKR",
+            "country image": "https://ratings.fide.com/svg/UKR.svg",
+            "elo": "2659",
+            "birthyear": "1985"
+        },
+        {
+            "ranking": "90",
+            "name": "Ma, Qun",
+            "fide profile": "https://ratings.fide.com/profile/8603154",
+            "country": "CHN",
+            "country image": "https://ratings.fide.com/svg/CHN.svg",
+            "elo": "2659",
+            "birthyear": "1991"
+        },
+        {
+            "ranking": "91",
+            "name": "Grandelius, Nils",
+            "fide profile": "https://ratings.fide.com/profile/1710400",
+            "country": "SWE",
+            "country image": "https://ratings.fide.com/svg/SWE.svg",
+            "elo": "2657",
+            "birthyear": "1993"
+        },
+        {
+            "ranking": "92",
+            "name": "Tabatabaei, M. Amin",
+            "fide profile": "https://ratings.fide.com/profile/12521213",
+            "country": "IRI",
+            "country image": "https://ratings.fide.com/svg/IRI.svg",
+            "elo": "2655",
+            "birthyear": "2001"
+        },
+        {
+            "ranking": "93",
+            "name": "Sindarov, Javokhir",
+            "fide profile": "https://ratings.fide.com/profile/14205483",
+            "country": "UZB",
+            "country image": "https://ratings.fide.com/svg/UZB.svg",
+            "elo": "2654",
+            "birthyear": "2005"
+        },
+        {
+            "ranking": "94",
+            "name": "Cori, Jorge",
+            "fide profile": "https://ratings.fide.com/profile/3802272",
+            "country": "PER",
+            "country image": "https://ratings.fide.com/svg/PER.svg",
+            "elo": "2651",
+            "birthyear": "1995"
+        },
+        {
+            "ranking": "95",
+            "name": "Bluebaum, Matthias",
+            "fide profile": "https://ratings.fide.com/profile/24651516",
+            "country": "GER",
+            "country image": "https://ratings.fide.com/svg/GER.svg",
+            "elo": "2651",
+            "birthyear": "1997"
+        },
+        {
+            "ranking": "96",
+            "name": "Malakhov, Vladimir",
+            "fide profile": "https://ratings.fide.com/profile/4120787",
+            "country": "FID",
+            "country image": "https://ratings.fide.com/svg/FID.svg",
+            "elo": "2650",
+            "birthyear": "1980"
+        },
+        {
+            "ranking": "97",
+            "name": "Shevchenko, Kirill",
+            "fide profile": "https://ratings.fide.com/profile/14129574",
+            "country": "UKR",
+            "country image": "https://ratings.fide.com/svg/UKR.svg",
+            "elo": "2649",
+            "birthyear": "2002"
+        },
+        {
+            "ranking": "98",
+            "name": "Kryvoruchko, Yuriy",
+            "fide profile": "https://ratings.fide.com/profile/14109182",
+            "country": "UKR",
+            "country image": "https://ratings.fide.com/svg/UKR.svg",
+            "elo": "2649",
+            "birthyear": "1986"
+        },
+        {
+            "ranking": "99",
+            "name": "Swiercz, Dariusz",
+            "fide profile": "https://ratings.fide.com/profile/1126881",
+            "country": "USA",
+            "country image": "https://ratings.fide.com/svg/USA.svg",
+            "elo": "2646",
+            "birthyear": "1994"
+        },
+        {
+            "ranking": "100",
+            "name": "Mamedov, Rauf",
+            "fide profile": "https://ratings.fide.com/profile/13401653",
+            "country": "AZE",
+            "country image": "https://ratings.fide.com/svg/AZE.svg",
+            "elo": "2646",
+            "birthyear": "1988"
+        },
+        {
+            "ranking": "101",
+            "name": "Bacrot, Etienne",
+            "fide profile": "https://ratings.fide.com/profile/605506",
+            "country": "FRA",
+            "country image": "https://ratings.fide.com/svg/FRA.svg",
+            "elo": "2646",
+            "birthyear": "1983"
+        },
+        {
+            "ranking": "102",
+            "name": "Abasov, Nijat",
+            "fide profile": "https://ratings.fide.com/profile/13402960",
+            "country": "AZE",
+            "country image": "https://ratings.fide.com/svg/AZE.svg",
+            "elo": "2646",
+            "birthyear": "1995"
+        }
+    ]
