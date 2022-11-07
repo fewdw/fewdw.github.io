@@ -1,6 +1,6 @@
 [
         {
-            "ranking": "1",
+            "ranking": 1,
             "name": "Carlsen, Magnus",
             "profile": "https://ratings.fide.com/profile/1503014",
             "country": "NOR",
@@ -9,7 +9,7 @@
             "birthyear": "1990"
         },
         {
-            "ranking": "2",
+            "ranking": 2,
             "name": "Ding, Liren",
             "profile": "https://ratings.fide.com/profile/8603677",
             "country": "CHN",
@@ -18,7 +18,7 @@
             "birthyear": "1992"
         },
         {
-            "ranking": "3",
+            "ranking": 3,
             "name": "Nepomniachtchi, Ian",
             "profile": "https://ratings.fide.com/profile/4168119",
             "country": "RUS",
@@ -27,7 +27,7 @@
             "birthyear": "1990"
         },
         {
-            "ranking": "4",
+            "ranking": 4,
             "name": "Firouzja, Alireza",
             "profile": "https://ratings.fide.com/profile/12573981",
             "country": "FRA",
@@ -36,7 +36,7 @@
             "birthyear": "2003"
         },
         {
-            "ranking": "5",
+            "ranking": 5,
             "name": "Nakamura, Hikaru",
             "profile": "https://ratings.fide.com/profile/2016192",
             "country": "USA",
@@ -45,7 +45,7 @@
             "birthyear": "1987"
         },
         {
-            "ranking": "6",
+            "ranking": 6,
             "name": "Caruana, Fabiano",
             "profile": "https://ratings.fide.com/profile/2020009",
             "country": "USA",
@@ -54,7 +54,7 @@
             "birthyear": "1992"
         },
         {
-            "ranking": "7",
+            "ranking": 7,
             "name": "Giri, Anish",
             "profile": "https://ratings.fide.com/profile/24116068",
             "country": "NED",
@@ -63,7 +63,7 @@
             "birthyear": "1994"
         },
         {
-            "ranking": "8",
+            "ranking": 8,
             "name": "So, Wesley",
             "profile": "https://ratings.fide.com/profile/5202213",
             "country": "USA",
@@ -72,7 +72,7 @@
             "birthyear": "1993"
         },
         {
-            "ranking": "9",
+            "ranking": 9,
             "name": "Anand, Viswanathan",
             "profile": "https://ratings.fide.com/profile/5000017",
             "country": "IND",
@@ -81,7 +81,7 @@
             "birthyear": "1969"
         },
         {
-            "ranking": "10",
+            "ranking": 10,
             "name": "Karjakin, Sergey",
             "profile": "https://ratings.fide.com/profile/14109603",
             "country": "RUS",
@@ -90,7 +90,7 @@
             "birthyear": "1990"
         },
         {
-            "ranking": "11",
+            "ranking": 11,
             "name": "Radjabov, Teimour",
             "profile": "https://ratings.fide.com/profile/13400924",
             "country": "AZE",
@@ -99,7 +99,7 @@
             "birthyear": "1987"
         },
         {
-            "ranking": "12",
+            "ranking": 12,
             "name": "Grischuk, Alexander",
             "profile": "https://ratings.fide.com/profile/4126025",
             "country": "RUS",
@@ -108,7 +108,7 @@
             "birthyear": "1983"
         },
         {
-            "ranking": "13",
+            "ranking": 13,
             "name": "Dominguez Perez, Leinier",
             "profile": "https://ratings.fide.com/profile/3503240",
             "country": "USA",
@@ -117,7 +117,7 @@
             "birthyear": "1983"
         },
         {
-            "ranking": "14",
+            "ranking": 14,
             "name": "Mamedyarov, Shakhriyar",
             "profile": "https://ratings.fide.com/profile/13401319",
             "country": "AZE",
@@ -126,7 +126,7 @@
             "birthyear": "1985"
         },
         {
-            "ranking": "15",
+            "ranking": 15,
             "name": "Rapport, Richard",
             "profile": "https://ratings.fide.com/profile/738590",
             "country": "ROU",
@@ -135,7 +135,7 @@
             "birthyear": "1996"
         },
         {
-            "ranking": "16",
+            "ranking": 16,
             "name": "Vachier-Lagrave, Maxime",
             "profile": "https://ratings.fide.com/profile/623539",
             "country": "FRA",
@@ -144,7 +144,7 @@
             "birthyear": "1990"
         },
         {
-            "ranking": "17",
+            "ranking": 17,
             "name": "Aronian, Levon",
             "profile": "https://ratings.fide.com/profile/13300474",
             "country": "USA",
@@ -153,7 +153,7 @@
             "birthyear": "1982"
         },
         {
-            "ranking": "18",
+            "ranking": 18,
             "name": "Duda, Jan-Krzysztof",
             "profile": "https://ratings.fide.com/profile/1170546",
             "country": "POL",
@@ -162,7 +162,7 @@
             "birthyear": "1998"
         },
         {
-            "ranking": "19",
+            "ranking": 19,
             "name": "Andreikin, Dmitry",
             "profile": "https://ratings.fide.com/profile/4158814",
             "country": "FID",
@@ -171,7 +171,7 @@
             "birthyear": "1990"
         },
         {
-            "ranking": "20",
+            "ranking": 20,
             "name": "Le, Quang Liem",
             "profile": "https://ratings.fide.com/profile/12401137",
             "country": "VIE",
@@ -180,7 +180,7 @@
             "birthyear": "1991"
         },
         {
-            "ranking": "21",
+            "ranking": 21,
             "name": "Topalov, Veselin",
             "profile": "https://ratings.fide.com/profile/2900084",
             "country": "BUL",
@@ -189,7 +189,7 @@
             "birthyear": "1975"
         },
         {
-            "ranking": "22",
+            "ranking": 22,
             "name": "Vitiugov, Nikita",
             "profile": "https://ratings.fide.com/profile/4152956",
             "country": "FID",
@@ -198,7 +198,7 @@
             "birthyear": "1987"
         },
         {
-            "ranking": "23",
+            "ranking": 23,
             "name": "Gukesh D",
             "profile": "https://ratings.fide.com/profile/46616543",
             "country": "IND",
@@ -207,7 +207,7 @@
             "birthyear": "2006"
         },
         {
-            "ranking": "24",
+            "ranking": 24,
             "name": "Vidit, Santosh Gujrathi",
             "profile": "https://ratings.fide.com/profile/5029465",
             "country": "IND",
@@ -216,7 +216,7 @@
             "birthyear": "1994"
         },
         {
-            "ranking": "25",
+            "ranking": 25,
             "name": "Wang, Hao",
             "profile": "https://ratings.fide.com/profile/8602883",
             "country": "CHN",
@@ -225,7 +225,7 @@
             "birthyear": "1989"
         },
         {
-            "ranking": "26",
+            "ranking": 26,
             "name": "Wei, Yi",
             "profile": "https://ratings.fide.com/profile/8603405",
             "country": "CHN",
@@ -234,7 +234,7 @@
             "birthyear": "1999"
         },
         {
-            "ranking": "27",
+            "ranking": 27,
             "name": "Maghsoodloo, Parham",
             "profile": "https://ratings.fide.com/profile/12539929",
             "country": "IRI",
@@ -243,7 +243,7 @@
             "birthyear": "2000"
         },
         {
-            "ranking": "28",
+            "ranking": 28,
             "name": "Erigaisi Arjun",
             "profile": "https://ratings.fide.com/profile/35009192",
             "country": "IND",
@@ -252,7 +252,7 @@
             "birthyear": "2003"
         },
         {
-            "ranking": "29",
+            "ranking": 29,
             "name": "Yu, Yangyi",
             "profile": "https://ratings.fide.com/profile/8603820",
             "country": "CHN",
@@ -261,7 +261,7 @@
             "birthyear": "1994"
         },
         {
-            "ranking": "30",
+            "ranking": 30,
             "name": "Vallejo Pons, Francisco",
             "profile": "https://ratings.fide.com/profile/2205530",
             "country": "ESP",
@@ -270,7 +270,7 @@
             "birthyear": "1982"
         },
         {
-            "ranking": "31",
+            "ranking": 31,
             "name": "Harikrishna, Pentala",
             "profile": "https://ratings.fide.com/profile/5007003",
             "country": "IND",
@@ -279,7 +279,7 @@
             "birthyear": "1986"
         },
         {
-            "ranking": "32",
+            "ranking": 32,
             "name": "Abdusattorov, Nodirbek",
             "profile": "https://ratings.fide.com/profile/14204118",
             "country": "UZB",
@@ -288,7 +288,7 @@
             "birthyear": "2004"
         },
         {
-            "ranking": "33",
+            "ranking": 33,
             "name": "Sjugirov, Sanan",
             "profile": "https://ratings.fide.com/profile/4189302",
             "country": "RUS",
@@ -297,7 +297,7 @@
             "birthyear": "1993"
         },
         {
-            "ranking": "34",
+            "ranking": 34,
             "name": "Shankland, Sam",
             "profile": "https://ratings.fide.com/profile/2004887",
             "country": "USA",
@@ -306,7 +306,7 @@
             "birthyear": "1991"
         },
         {
-            "ranking": "35",
+            "ranking": 35,
             "name": "Dubov, Daniil",
             "profile": "https://ratings.fide.com/profile/24126055",
             "country": "RUS",
@@ -315,7 +315,7 @@
             "birthyear": "1996"
         },
         {
-            "ranking": "36",
+            "ranking": 36,
             "name": "Eljanov, Pavel",
             "profile": "https://ratings.fide.com/profile/14102951",
             "country": "UKR",
@@ -324,7 +324,7 @@
             "birthyear": "1983"
         },
         {
-            "ranking": "37",
+            "ranking": 37,
             "name": "Robson, Ray",
             "profile": "https://ratings.fide.com/profile/2023970",
             "country": "USA",
@@ -333,7 +333,7 @@
             "birthyear": "1994"
         },
         {
-            "ranking": "38",
+            "ranking": 38,
             "name": "Artemiev, Vladislav",
             "profile": "https://ratings.fide.com/profile/24101605",
             "country": "RUS",
@@ -342,7 +342,7 @@
             "birthyear": "1998"
         },
         {
-            "ranking": "39",
+            "ranking": 39,
             "name": "Deac, Bogdan-Daniel",
             "profile": "https://ratings.fide.com/profile/1226380",
             "country": "ROU",
@@ -351,7 +351,7 @@
             "birthyear": "2001"
         },
         {
-            "ranking": "40",
+            "ranking": 40,
             "name": "Niemann, Hans Moke",
             "profile": "https://ratings.fide.com/profile/2093596",
             "country": "USA",
@@ -360,7 +360,7 @@
             "birthyear": "2003"
         },
         {
-            "ranking": "41",
+            "ranking": 41,
             "name": "Sargissian, Gabriel",
             "profile": "https://ratings.fide.com/profile/13300881",
             "country": "ARM",
@@ -369,7 +369,7 @@
             "birthyear": "1983"
         },
         {
-            "ranking": "42",
+            "ranking": 42,
             "name": "Keymer, Vincent",
             "profile": "https://ratings.fide.com/profile/12940690",
             "country": "GER",
@@ -378,7 +378,7 @@
             "birthyear": "2004"
         },
         {
-            "ranking": "43",
+            "ranking": 43,
             "name": "Bu, Xiangzhi",
             "profile": "https://ratings.fide.com/profile/8601445",
             "country": "CHN",
@@ -387,7 +387,7 @@
             "birthyear": "1985"
         },
         {
-            "ranking": "44",
+            "ranking": 44,
             "name": "Cheparinov, Ivan",
             "profile": "https://ratings.fide.com/profile/2905540",
             "country": "BUL",
@@ -396,7 +396,7 @@
             "birthyear": "1986"
         },
         {
-            "ranking": "45",
+            "ranking": 45,
             "name": "Tomashevsky, Evgeny",
             "profile": "https://ratings.fide.com/profile/4147235",
             "country": "RUS",
@@ -405,7 +405,7 @@
             "birthyear": "1987"
         },
         {
-            "ranking": "46",
+            "ranking": 46,
             "name": "Xiong, Jeffery",
             "profile": "https://ratings.fide.com/profile/2047640",
             "country": "USA",
@@ -414,7 +414,7 @@
             "birthyear": "2000"
         },
         {
-            "ranking": "47",
+            "ranking": 47,
             "name": "Van Foreest, Jorden",
             "profile": "https://ratings.fide.com/profile/1039784",
             "country": "NED",
@@ -423,7 +423,7 @@
             "birthyear": "1999"
         },
         {
-            "ranking": "48",
+            "ranking": 48,
             "name": "Fedoseev, Vladimir",
             "profile": "https://ratings.fide.com/profile/24130737",
             "country": "FID",
@@ -432,7 +432,7 @@
             "birthyear": "1995"
         },
         {
-            "ranking": "49",
+            "ranking": 49,
             "name": "Sevian, Samuel",
             "profile": "https://ratings.fide.com/profile/2040506",
             "country": "USA",
@@ -441,7 +441,7 @@
             "birthyear": "2000"
         },
         {
-            "ranking": "50",
+            "ranking": 50,
             "name": "Alekseenko, Kirill",
             "profile": "https://ratings.fide.com/profile/4135539",
             "country": "FID",
@@ -450,7 +450,7 @@
             "birthyear": "1997"
         },
         {
-            "ranking": "51",
+            "ranking": 51,
             "name": "Nyzhnyk, Illya",
             "profile": "https://ratings.fide.com/profile/14118084",
             "country": "UKR",
@@ -459,7 +459,7 @@
             "birthyear": "1996"
         },
         {
-            "ranking": "52",
+            "ranking": 52,
             "name": "Wojtaszek, Radoslaw",
             "profile": "https://ratings.fide.com/profile/1118358",
             "country": "POL",
@@ -468,7 +468,7 @@
             "birthyear": "1987"
         },
         {
-            "ranking": "53",
+            "ranking": 53,
             "name": "Adams, Michael",
             "profile": "https://ratings.fide.com/profile/400041",
             "country": "ENG",
@@ -477,7 +477,7 @@
             "birthyear": "1971"
         },
         {
-            "ranking": "54",
+            "ranking": 54,
             "name": "Amin, Bassem",
             "profile": "https://ratings.fide.com/profile/10601457",
             "country": "EGY",
@@ -486,7 +486,7 @@
             "birthyear": "1988"
         },
         {
-            "ranking": "55",
+            "ranking": 55,
             "name": "Predke, Alexandr",
             "profile": "https://ratings.fide.com/profile/24107581",
             "country": "FID",
@@ -495,7 +495,7 @@
             "birthyear": "1994"
         },
         {
-            "ranking": "56",
+            "ranking": 56,
             "name": "Oparin, Grigoriy",
             "profile": "https://ratings.fide.com/profile/24125890",
             "country": "USA",
@@ -504,7 +504,7 @@
             "birthyear": "1997"
         },
         {
-            "ranking": "57",
+            "ranking": 57,
             "name": "Svidler, Peter",
             "profile": "https://ratings.fide.com/profile/4102142",
             "country": "FID",
@@ -513,7 +513,7 @@
             "birthyear": "1976"
         },
         {
-            "ranking": "58",
+            "ranking": 58,
             "name": "Martirosyan, Haik M.",
             "profile": "https://ratings.fide.com/profile/13306553",
             "country": "ARM",
@@ -522,7 +522,7 @@
             "birthyear": "2000"
         },
         {
-            "ranking": "59",
+            "ranking": 59,
             "name": "Jakovenko, Dmitry",
             "profile": "https://ratings.fide.com/profile/4122356",
             "country": "RUS",
@@ -531,7 +531,7 @@
             "birthyear": "1983"
         },
         {
-            "ranking": "60",
+            "ranking": 60,
             "name": "Esipenko, Andrey",
             "profile": "https://ratings.fide.com/profile/24175439",
             "country": "FID",
@@ -540,7 +540,7 @@
             "birthyear": "2002"
         },
         {
-            "ranking": "61",
+            "ranking": 61,
             "name": "Navara, David",
             "profile": "https://ratings.fide.com/profile/309095",
             "country": "CZE",
@@ -549,7 +549,7 @@
             "birthyear": "1985"
         },
         {
-            "ranking": "62",
+            "ranking": 62,
             "name": "Praggnanandhaa R",
             "profile": "https://ratings.fide.com/profile/25059530",
             "country": "IND",
@@ -558,7 +558,7 @@
             "birthyear": "2005"
         },
         {
-            "ranking": "63",
+            "ranking": 63,
             "name": "Almasi, Zoltan",
             "profile": "https://ratings.fide.com/profile/702293",
             "country": "HUN",
@@ -567,7 +567,7 @@
             "birthyear": "1976"
         },
         {
-            "ranking": "64",
+            "ranking": 64,
             "name": "Salem, A.R. Saleh",
             "profile": "https://ratings.fide.com/profile/9301348",
             "country": "UAE",
@@ -576,7 +576,7 @@
             "birthyear": "1993"
         },
         {
-            "ranking": "65",
+            "ranking": 65,
             "name": "Moussard, Jules",
             "profile": "https://ratings.fide.com/profile/642908",
             "country": "FRA",
@@ -585,7 +585,7 @@
             "birthyear": "1995"
         },
         {
-            "ranking": "66",
+            "ranking": 66,
             "name": "Kasimdzhanov, Rustam",
             "profile": "https://ratings.fide.com/profile/14200244",
             "country": "UZB",
@@ -594,7 +594,7 @@
             "birthyear": "1979"
         },
         {
-            "ranking": "67",
+            "ranking": 67,
             "name": "Saric, Ivan",
             "profile": "https://ratings.fide.com/profile/14508150",
             "country": "CRO",
@@ -603,7 +603,7 @@
             "birthyear": "1990"
         },
         {
-            "ranking": "68",
+            "ranking": 68,
             "name": "Kovalenko, Igor",
             "profile": "https://ratings.fide.com/profile/14117908",
             "country": "UKR",
@@ -612,7 +612,7 @@
             "birthyear": "1988"
         },
         {
-            "ranking": "69",
+            "ranking": 69,
             "name": "Narayanan.S.L",
             "profile": "https://ratings.fide.com/profile/5058422",
             "country": "IND",
@@ -621,7 +621,7 @@
             "birthyear": "1998"
         },
         {
-            "ranking": "70",
+            "ranking": 70,
             "name": "Ivanchuk, Vasyl",
             "profile": "https://ratings.fide.com/profile/14100010",
             "country": "UKR",
@@ -630,7 +630,7 @@
             "birthyear": "1969"
         },
         {
-            "ranking": "71",
+            "ranking": 71,
             "name": "Li, Chao b",
             "profile": "https://ratings.fide.com/profile/8604436",
             "country": "CHN",
@@ -639,7 +639,7 @@
             "birthyear": "1989"
         },
         {
-            "ranking": "72",
+            "ranking": 72,
             "name": "Nihal Sarin",
             "profile": "https://ratings.fide.com/profile/25092340",
             "country": "IND",
@@ -648,7 +648,7 @@
             "birthyear": "2004"
         },
         {
-            "ranking": "73",
+            "ranking": 73,
             "name": "Sarana, Alexey",
             "profile": "https://ratings.fide.com/profile/24133795",
             "country": "FID",
@@ -657,7 +657,7 @@
             "birthyear": "2000"
         },
         {
-            "ranking": "74",
+            "ranking": 74,
             "name": "Anton Guijarro, David",
             "profile": "https://ratings.fide.com/profile/2285525",
             "country": "ESP",
@@ -666,7 +666,7 @@
             "birthyear": "1995"
         },
         {
-            "ranking": "75",
+            "ranking": 75,
             "name": "Yakubboev, Nodirbek",
             "profile": "https://ratings.fide.com/profile/14203987",
             "country": "UZB",
@@ -675,7 +675,7 @@
             "birthyear": "2002"
         },
         {
-            "ranking": "76",
+            "ranking": 76,
             "name": "Gelfand, Boris",
             "profile": "https://ratings.fide.com/profile/2805677",
             "country": "ISR",
@@ -684,7 +684,7 @@
             "birthyear": "1968"
         },
         {
-            "ranking": "77",
+            "ranking": 77,
             "name": "Howell, David W L",
             "profile": "https://ratings.fide.com/profile/410608",
             "country": "ENG",
@@ -693,7 +693,7 @@
             "birthyear": "1990"
         },
         {
-            "ranking": "78",
+            "ranking": 78,
             "name": "Naiditsch, Arkadij",
             "profile": "https://ratings.fide.com/profile/4650891",
             "country": "AZE",
@@ -702,7 +702,7 @@
             "birthyear": "1985"
         },
         {
-            "ranking": "79",
+            "ranking": 79,
             "name": "Ni, Hua",
             "profile": "https://ratings.fide.com/profile/8601160",
             "country": "CHN",
@@ -711,7 +711,7 @@
             "birthyear": "1983"
         },
         {
-            "ranking": "80",
+            "ranking": 80,
             "name": "Shirov, Alexei",
             "profile": "https://ratings.fide.com/profile/2209390",
             "country": "ESP",
@@ -720,7 +720,7 @@
             "birthyear": "1972"
         },
         {
-            "ranking": "81",
+            "ranking": 81,
             "name": "Kamsky, Gata",
             "profile": "https://ratings.fide.com/profile/2000024",
             "country": "USA",
@@ -729,7 +729,7 @@
             "birthyear": "1974"
         },
         {
-            "ranking": "82",
+            "ranking": 82,
             "name": "Santos Latasa, Jaime",
             "profile": "https://ratings.fide.com/profile/2293307",
             "country": "ESP",
@@ -738,7 +738,7 @@
             "birthyear": "1996"
         },
         {
-            "ranking": "83",
+            "ranking": 83,
             "name": "Volokitin, Andrei",
             "profile": "https://ratings.fide.com/profile/14107090",
             "country": "UKR",
@@ -747,7 +747,7 @@
             "birthyear": "1986"
         },
         {
-            "ranking": "84",
+            "ranking": 84,
             "name": "Najer, Evgeniy",
             "profile": "https://ratings.fide.com/profile/4118987",
             "country": "RUS",
@@ -756,7 +756,7 @@
             "birthyear": "1977"
         },
         {
-            "ranking": "85",
+            "ranking": 85,
             "name": "Matlakov, Maxim",
             "profile": "https://ratings.fide.com/profile/4168003",
             "country": "RUS",
@@ -765,7 +765,7 @@
             "birthyear": "1991"
         },
         {
-            "ranking": "86",
+            "ranking": 86,
             "name": "Guseinov, Gadir",
             "profile": "https://ratings.fide.com/profile/13401378",
             "country": "AZE",
@@ -774,7 +774,7 @@
             "birthyear": "1986"
         },
         {
-            "ranking": "87",
+            "ranking": 87,
             "name": "Inarkiev, Ernesto",
             "profile": "https://ratings.fide.com/profile/4162722",
             "country": "FID",
@@ -783,7 +783,7 @@
             "birthyear": "1985"
         },
         {
-            "ranking": "88",
+            "ranking": 88,
             "name": "Tari, Aryan",
             "profile": "https://ratings.fide.com/profile/1510045",
             "country": "NOR",
@@ -792,7 +792,7 @@
             "birthyear": "1999"
         },
         {
-            "ranking": "89",
+            "ranking": 89,
             "name": "Korobov, Anton",
             "profile": "https://ratings.fide.com/profile/14105730",
             "country": "UKR",
@@ -801,7 +801,7 @@
             "birthyear": "1985"
         },
         {
-            "ranking": "90",
+            "ranking": 90,
             "name": "Ma, Qun",
             "profile": "https://ratings.fide.com/profile/8603154",
             "country": "CHN",
@@ -810,7 +810,7 @@
             "birthyear": "1991"
         },
         {
-            "ranking": "91",
+            "ranking": 91,
             "name": "Grandelius, Nils",
             "profile": "https://ratings.fide.com/profile/1710400",
             "country": "SWE",
@@ -819,7 +819,7 @@
             "birthyear": "1993"
         },
         {
-            "ranking": "92",
+            "ranking": 92,
             "name": "Tabatabaei, M. Amin",
             "profile": "https://ratings.fide.com/profile/12521213",
             "country": "IRI",
@@ -828,7 +828,7 @@
             "birthyear": "2001"
         },
         {
-            "ranking": "93",
+            "ranking": 93,
             "name": "Sindarov, Javokhir",
             "profile": "https://ratings.fide.com/profile/14205483",
             "country": "UZB",
@@ -837,7 +837,7 @@
             "birthyear": "2005"
         },
         {
-            "ranking": "94",
+            "ranking": 94,
             "name": "Cori, Jorge",
             "profile": "https://ratings.fide.com/profile/3802272",
             "country": "PER",
@@ -846,7 +846,7 @@
             "birthyear": "1995"
         },
         {
-            "ranking": "95",
+            "ranking": 95,
             "name": "Bluebaum, Matthias",
             "profile": "https://ratings.fide.com/profile/24651516",
             "country": "GER",
@@ -855,7 +855,7 @@
             "birthyear": "1997"
         },
         {
-            "ranking": "96",
+            "ranking": 96,
             "name": "Malakhov, Vladimir",
             "profile": "https://ratings.fide.com/profile/4120787",
             "country": "FID",
@@ -864,7 +864,7 @@
             "birthyear": "1980"
         },
         {
-            "ranking": "97",
+            "ranking": 97,
             "name": "Shevchenko, Kirill",
             "profile": "https://ratings.fide.com/profile/14129574",
             "country": "UKR",
@@ -873,7 +873,7 @@
             "birthyear": "2002"
         },
         {
-            "ranking": "98",
+            "ranking": 98,
             "name": "Kryvoruchko, Yuriy",
             "profile": "https://ratings.fide.com/profile/14109182",
             "country": "UKR",
@@ -882,7 +882,7 @@
             "birthyear": "1986"
         },
         {
-            "ranking": "99",
+            "ranking": 99,
             "name": "Swiercz, Dariusz",
             "profile": "https://ratings.fide.com/profile/1126881",
             "country": "USA",
@@ -891,7 +891,7 @@
             "birthyear": "1994"
         },
         {
-            "ranking": "100",
+            "ranking": 100,
             "name": "Mamedov, Rauf",
             "profile": "https://ratings.fide.com/profile/13401653",
             "country": "AZE",
@@ -900,7 +900,7 @@
             "birthyear": "1988"
         },
         {
-            "ranking": "101",
+            "ranking": 101,
             "name": "Bacrot, Etienne",
             "profile": "https://ratings.fide.com/profile/605506",
             "country": "FRA",
@@ -909,7 +909,7 @@
             "birthyear": "1983"
         },
         {
-            "ranking": "102",
+            "ranking": 102,
             "name": "Abasov, Nijat",
             "profile": "https://ratings.fide.com/profile/13402960",
             "country": "AZE",
